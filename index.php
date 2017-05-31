@@ -12,6 +12,8 @@
   echo "$dat1";
   $dat1 = date("h:m:s");
   echo "$dat1";
+  for($i=0; $i<=5; ++$i)
+    echo ($i * $i);
 ?>
 </body>
 </html>

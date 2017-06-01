@@ -3,4 +3,6 @@
 
 PhpStorm https://www.youtube.com/watch?v=nHjKXiRLAQY
 Уроки (текстові): http://www.php.su/learnphp/vars/?arrays
-Документаці   
+Документація http://php.net/manual/ru/language.types.string.php
+
+Вирішення проблеми з переведенням курсора під час виведення тексту

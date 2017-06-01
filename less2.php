@@ -9,12 +9,14 @@
 <?php
 $My_var = 5;
 echo gettype($My_var);
-echo "Это не вставит: \n новую строку";
+echo nl2br("\n");
 
+$text = "Line 1\nLine 2\n";
+echo nl2br($text);
 
 define("pi", 3.14);
 echo pi;
-echo "\n";
+echo nl2br("\n");
 ?>
 
 </body>

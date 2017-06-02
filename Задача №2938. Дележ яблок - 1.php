@@ -2,6 +2,8 @@
 * http://informatics.mccme.ru/mod/statements/view3.php?id=2296&chapterid=2938#1
 * https://olympiads.ru/mosolymp/2011-12/tour1/io.shtml
 * http://php.net/manual/ru/function.intdiv.php
+
+
 */
 <?php
 # Считываем весь файл при помощи функции file_get_contents,

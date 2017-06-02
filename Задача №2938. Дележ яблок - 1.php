@@ -10,7 +10,7 @@
 # задающему последовательность пробельных символов в качестве разделителя
 # и записываем результат в массив InputData
 $InputData=preg_split('/\s+/', trim(file_get_contents('input.txt')));
-#print_r ($InputData);
+#print_r ($InputData); #вивод всего массива
 # Теперь в элементах массива $InputData[0] и $InputData[1]
 # записаны два входных числа.
 # Запишем их сумму в переменную $Answer
@@ -25,5 +25,4 @@ fputs($FOUT,$Answer);
 
 # Закроем файл FOUT
 fclose($FOUT);
-
 ?>

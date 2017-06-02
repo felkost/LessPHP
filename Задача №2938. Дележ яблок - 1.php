@@ -10,11 +10,12 @@
 # задающему последовательность пробельных символов в качестве разделителя
 # и записываем результат в массив InputData
 $InputData=preg_split('/\s+/', trim(file_get_contents('input.txt')));
-
+#print_r ($InputData);
 # Теперь в элементах массива $InputData[0] и $InputData[1]
 # записаны два входных числа.
 # Запишем их сумму в переменную $Answer
-$Answer=intdiv($InputData[1],$InputData[0]);
+#$Answer=intdiv($InputData[1],$InputData[0]); #на олимп сайте такие функции не проходят
+$Answer=(integer)($InputData[1]/$InputData[0]); #способы описаны тут http://www.programmersforum.ru/showthread.php?t=59059
 
 # Объявляем файл FOUT для вывода данных
 $FOUT=fopen("output.txt","w");

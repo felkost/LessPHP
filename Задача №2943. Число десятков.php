@@ -4,7 +4,6 @@
  */
 <?php
 $InputData=preg_split('/\s+/', trim(file_get_contents('input.txt')));
-
 $numb= $InputData[0];
 
 #$numb=fgets(STDIN);

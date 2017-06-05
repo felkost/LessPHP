@@ -42,7 +42,9 @@ xDebuger налаштувати, як показано в https://www.youtube.co
     http://on-line-teaching.com/php/struct.vars.htm
 8) switch та альтернативний синтаксис для HTML http://php.net/manual/ru/control-structures.switch.php
 9) підключити інші файли (класи) до скрипту http://on-line-teaching.com/php/struct.structs.htm
-10)
+10) довга арифметика (засоби стандартні, але на informatics не підтримуються)
+    http://php.net/manual/ru/ref.bc.php
+11)
 
 
 

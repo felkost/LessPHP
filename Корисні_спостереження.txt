@@ -37,9 +37,12 @@ xDebuger налаштувати, як показано в https://www.youtube.co
 4) оператори порівнянь  http://php.net/manual/ru/language.operators.comparison.php
 5) конвертація типів  http://php.net/manual/ru/language.types.type-juggling.php#language.types.typecasting
 6) останов скрипта  http://php.net/manual/ru/function.return.php
-7) область видимості змінних  http://php.net/manual/ru/language.variables.scope.php
+7) область видимості змінних
+    http://php.net/manual/ru/language.variables.scope.php
+    http://on-line-teaching.com/php/struct.vars.htm
 8) switch та альтернативний синтаксис для HTML http://php.net/manual/ru/control-structures.switch.php
-9)
+9) підключити інші файли (класи) до скрипту http://on-line-teaching.com/php/struct.structs.htm
+10)
 
 
 

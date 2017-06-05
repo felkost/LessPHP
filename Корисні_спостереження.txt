@@ -29,13 +29,16 @@ xDebuger налаштувати, як показано в https://www.youtube.co
 тоді їх пріорітет самий низький http://php.net/manual/ru/language.operators.precedence.php
 
 Документиція:
-1) sprintf   http://php.net/manual/ru/function.sprintf.php
+1) форматування sprintf   http://php.net/manual/ru/function.sprintf.php
 2) по функціях (математичних) http://php.net/manual/ru/book.math.php
 3) логічні оператори
     http://php.net/manual/ru/language.operators.logical.php
     http://www.php.su/lessons/?lesson_1
 4) оператори порівнянь  http://php.net/manual/ru/language.operators.comparison.php
 5) конвертація типів  http://php.net/manual/ru/language.types.type-juggling.php#language.types.typecasting
+6) останов скрипта  http://php.net/manual/ru/function.return.php
+7) область видимості змінних  http://php.net/manual/ru/language.variables.scope.php
+8)
 
 
 

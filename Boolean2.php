@@ -1,6 +1,6 @@
 <?php
 /**
- * PascalABC: Boolean2:Число является нечетным
+ * PascalABC: Boolean2: Число является нечетным
  */
 $InputData=preg_split('/\s+/', trim(file_get_contents('input.txt')));
 $a= $InputData[0];

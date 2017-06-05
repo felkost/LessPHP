@@ -1,6 +1,6 @@
 <?php
 /**
- * PascalABC: Boolean1:Число является положительным
+ * PascalABC: Boolean1: Число является положительным
  */
 $InputData=preg_split('/\s+/', trim(file_get_contents('input.txt')));
 $a= $InputData[0];

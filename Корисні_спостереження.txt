@@ -46,7 +46,14 @@ xDebuger налаштувати, як показано в https://www.youtube.co
 9) підключити інші файли (класи) до скрипту http://on-line-teaching.com/php/struct.structs.htm
 10) довга арифметика (засоби стандартні, але на informatics не підтримуються)
     http://php.net/manual/ru/ref.bc.php
-11)
+11) точність порівняння дійсних чисел
+    http://php.net/manual/ru/language.types.float.php
+    http://blog.kislenko.net/show.php?id=1391
+    https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%87%D0%B8%D1%81%D0%B5%D0%BB_%D1%81_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B9_%D1%82%D0%BE%D1%87%D0%BA%D0%BE%D0%B9
+    http://www.phys.spbu.ru/content/File/Library/studentlectures/Nemnugin/LecturePMF_09.pdf
+    https://habrahabr.ru/post/116300/
+    https://habrahabr.ru/post/112953/
+
 
 
 

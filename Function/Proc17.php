@@ -37,4 +37,15 @@ $a = $InputData[6];
 $b = $InputData[7];
 $c = $InputData[8];
 printf("Кількість коренів = %s\n",RootsCount($a, $b, $c));
+
+//пример кода на Python, который показывает, при каком значении числа x компьютер не различает числа x и x+1.
+//https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%87%D0%B8%D1%81%D0%B5%D0%BB_%D1%81_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B9_%D1%82%D0%BE%D1%87%D0%BA%D0%BE%D0%B9
+$x = 1.0;
+while( $x!= $x + 1){
+    $x *= 2;
+}
+printf("x = %f\n", $x);
+
+$y = log($x) / log(2);
+printf("y = %f\n", $y);
 ?>

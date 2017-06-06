@@ -13,8 +13,8 @@ function poweraA3($a, &$b)
 $InputData=preg_split('/\s+/', trim(file_get_contents('input.txt')));
 
 for ($i=0; $i<5; ++$i){
-    poweraA3((float)$InputData[i], $b);
-    printf("poweraA3 = %0.2g\n",$b);
+    poweraA3((float)$InputData[$i], $b);
+    printf("poweraA3 = %0.2f\n",$b);
 }
 
 ?>

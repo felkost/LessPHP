@@ -1,5 +1,6 @@
 Сайт для розв'язаних задач з PascalABC
 http://learnpascal.ru/category/reshenie-zadach
+http://coolcode.ru/
 
 Чорновики для роботи з PHP https://www.youtube.com/watch?v=5CPTpFit3hg&list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB
 
@@ -23,11 +24,14 @@ PhpStorm https://www.youtube.com/watch?v=nHjKXiRLAQY
     http://on-line-teaching.com/php/struct.vars.htm
 8) switch та альтернативний синтаксис для HTML http://php.net/manual/ru/control-structures.switch.php
 9) підключити інші файли (класи) до скрипту http://on-line-teaching.com/php/struct.structs.htm
-10) довга арифметика (засоби стандартні, але на informatics не підтримуються)
+10) математика та довга арифметика (засоби стандартні, але на informatics не підтримуються)
     http://php.net/manual/ru/ref.bc.php
     Функции для работы с целыми числами произвольной точности
         http://www.php.su/functions/?cat=bc
         http://www.php.su/functions/?cat=gmp
+        Математичні функції
+            http://php.net/manual/ru/book.math.php
+            http://www.php.su/lessons/?lesson_5
 11) точність порівняння дійсних чисел
     http://php.net/manual/ru/language.types.float.php
     http://blog.kislenko.net/show.php?id=1391
@@ -37,3 +41,19 @@ PhpStorm https://www.youtube.com/watch?v=nHjKXiRLAQY
     https://habrahabr.ru/post/112953/
 12) Строки http://php.net/manual/ru/language.types.string.php
 13) предопределенные константы http://php.net/manual/ru/math.constants.php
+14) одновимірний масив:
+    http://php.net/manual/ru/language.types.array.php
+    http://php.net/manual/ru/ref.array.php
+    http://www.php.su/articles/?cat=vars&page=014
+    http://www.php.su/functions/?cat=array
+15) Стандартная библиотека PHP (SPL)   http://php.net/manual/ru/book.spl.php
+16)
+
+документация и Справочники:
+1) Руководство по PHP http://php.net/manual/ru/
+2) Справочник функций
+    http://php.net/manual/ru/funcref.php
+    http://www.php.su/functions/?page=cat
+3) Справочник языка
+Архітектура
+Шпаргалка по SOLID принципам http://sergeyteplyakov.blogspot.com/2014/10/solid.html

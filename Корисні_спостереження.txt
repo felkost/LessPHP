@@ -8,6 +8,7 @@ pascalABC.
 http://learnpascal.ru/reshenie-zadach/if/if1-15.html
 http://coolcode.ru/page/198/   (шукати тему задач, наприклда, Boolean, вгорі-зліва по пошуку)
 
+перевірити версію інтерпретатора можна через консоль командою  printf("%s\n",phpversion());
 Введення/виведення можна робити:
 1) через файли;
 2) через STDIN;

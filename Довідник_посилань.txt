@@ -55,5 +55,19 @@ PhpStorm https://www.youtube.com/watch?v=nHjKXiRLAQY
     http://php.net/manual/ru/funcref.php
     http://www.php.su/functions/?page=cat
 3) Справочник языка
+
+
 Архітектура
 Шпаргалка по SOLID принципам http://sergeyteplyakov.blogspot.com/2014/10/solid.html
+
+Налаштування PHPUnit
+https://www.youtube.com/watch?v=EjgtrsCFaUU
+
+https://www.youtube.com/watch?v=6fNKdYcIrwI
+https://www.youtube.com/watch?v=Cnkr3TDDuWY
+
+https://blog.jetbrains.com/phpstorm/2013/03/phpunit-installation-via-composer-in-phpstorm/
+https://mega-mozg.blogspot.com/2013/03/phpunit-phpstorm.html
+https://toster.ru/q/125019
+https://ospanel.io/forum/viewtopic.php?f=1&t=694&hilit=phpunit
+https://kurapov.ee/rus/lab/quality_control/phpunit/php_unit_testing/

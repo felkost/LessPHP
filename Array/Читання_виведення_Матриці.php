@@ -41,4 +41,10 @@ for($i=0, $ind=2; $i<$n; $i++) {
         printf("arr[%d][%d]=%d\t", $i, $j, $arr[$i][$j]);
     printf("\n");
 }
+
+printf("\n");
+read_vector($InputData, $n, $barr);
+for($i=0, $ind=2; $i<$n; $i++) {
+        printf("arr[%d][%d]=%d\t", $i, $j, $arr[$i][$j]);
+}
 ?>

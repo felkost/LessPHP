@@ -9,15 +9,9 @@ PhpStorm https://www.youtube.com/watch?v=nHjKXiRLAQY
 
 Налаштування PHPUnit
 https://www.youtube.com/watch?v=EjgtrsCFaUU
+https://phpunit.de/manual/current/en/writing-tests-for-phpunit.html#writing-tests-for-phpunit.examples.StackTest.php
+https://www.youtube.com/channel/UCNDSmrZeU2mB-eHTIV2E5pg
 
-https://www.youtube.com/watch?v=6fNKdYcIrwI
-https://www.youtube.com/watch?v=Cnkr3TDDuWY
-
-https://blog.jetbrains.com/phpstorm/2013/03/phpunit-installation-via-composer-in-phpstorm/
-https://mega-mozg.blogspot.com/2013/03/phpunit-phpstorm.html
-https://toster.ru/q/125019
-https://ospanel.io/forum/viewtopic.php?f=1&t=694&hilit=phpunit
-https://kurapov.ee/rus/lab/quality_control/phpunit/php_unit_testing/
 
 
 Уроки (текстові): http://www.php.su/learnphp/vars/?arrays
@@ -68,7 +62,7 @@ https://kurapov.ee/rus/lab/quality_control/phpunit/php_unit_testing/
 2) Справочник функций
     http://php.net/manual/ru/funcref.php
     http://www.php.su/functions/?page=cat
-3) Справочник языка
+3) Справочник языка  http://php.net/manual/ru/langref.php
 
 
 Архітектура

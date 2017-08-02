@@ -8,7 +8,9 @@
 
 use PHPUnit\Framework\TestCase;
 
-class StackTest extends TestCase
+
+//class StackTest extends TestCase
+class FirstTest extends TestCase
 {
     public function testPushAndPop()
     {
